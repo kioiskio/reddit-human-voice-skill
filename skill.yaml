@@ -1,0 +1,10 @@
+name: local_reddit_posting
+title: Local reddit posting
+description: Reddit 发帖与回帖写作技能：按调研实证的打法，写出真人语感（非 AI 腔）的英文帖子与评论。覆盖热帖标题公式、正文排版与语气、热门评论四原型、美东发布时间、9:1 推广铁律、防 AI 腔自检清单、OP 回复礼仪。触发：用户说「写 Reddit 帖子」「回 Reddit 评论」「运营 Reddit 账号」或要把某内容发到 Reddit 时。
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
